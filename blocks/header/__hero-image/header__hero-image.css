@@ -1,0 +1,5 @@
+.header__hero-image{
+    width: 80;
+    filter: grayscale();
+    margin-bottom: 4rem;
+}
