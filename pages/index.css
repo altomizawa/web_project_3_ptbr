@@ -17,9 +17,11 @@
 @import url(/blocks/introduction/__text/introduction__text.css);
 
     /* <-------------------------PHOTO-GRID SECTION-------------------------> */
+@import url(/blocks/grid/grid.css);
+@import url(/blocks/grid/__photo/grid__photo.css);
+@import url(/blocks/grid/__thumbnails/grid__thumbnails.css);
 
-
-
+/* <-------------------------CITY-CARDS SECTION-------------------------> */
 
 
 

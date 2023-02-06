@@ -1,0 +1,13 @@
+.grid__thumbnails{
+    /* border: 1px solid white; */
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+}
+
+/* @media screen and (max-width: 800px) {
+    .grid__thumbnails{
+        grid-template-columns: repeat(2,1fr);
+    }
+} */
