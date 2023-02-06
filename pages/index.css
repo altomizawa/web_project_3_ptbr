@@ -1,4 +1,29 @@
 @import url(/blocks/root/root.css);
+
+    /* <-------------------------HEADER SECTION-------------------------> */
+
+@import url(/blocks/header/header.css);
+@import url(/blocks/header/__subtitle/header__subtitle.css);
+@import url(/blocks/header/__hero-image/header__hero-image.css);
+@import url(/blocks/header/__title/header__title.css);
+@import url(/blocks/logo/logo.css);
+
+    /* <-------------------------INTRODUCTION SECTION-------------------------> */
+@import url(/blocks/introduction/introduction.css);
+@import url(/blocks/introduction/__wrapper/introduction__wrapper.css);
+@import url(/blocks/introduction/__title/introduction__title.css);
+@import url(/blocks/introduction/__quote/introduction__quote.css);
+@import url(/blocks/introduction/__quote-author/introduction__quote-author.css);
+@import url(/blocks/introduction/__text/introduction__text.css);
+
+    /* <-------------------------PHOTO-GRID SECTION-------------------------> */
+
+
+
+
+
+
+    /* <-------------------------FONTS SECTION-------------------------> */
 @font-face {
     font-family: 'Inter';
     src: url(/fonts/Inter-3.19/Inter-Regular.woff),
@@ -18,3 +43,6 @@
     src: url(/fonts/Inter-3.19/Inter-Black.woff),
     url(/fonts/Inter-3.19/Inter-Black.woff2);
     font-weight: 900;
+}
+
+
