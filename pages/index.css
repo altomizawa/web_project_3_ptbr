@@ -1,1 +1,20 @@
 @import url(/blocks/root/root.css);
+@font-face {
+    font-family: 'Inter';
+    src: url(/fonts/Inter-3.19/Inter-Regular.woff),
+    url(/fonts/Inter-3.19/Inter-Regular.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src:url(/fonts/Inter-3.19/Inter-SemiBold.woff),
+            url(/fonts/Inter-3.19/Inter-SemiBold.woff2);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(/fonts/Inter-3.19/Inter-Black.woff),
+    url(/fonts/Inter-3.19/Inter-Black.woff2);
+    font-weight: 900;
