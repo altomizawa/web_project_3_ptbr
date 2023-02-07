@@ -1,7 +1,8 @@
 .city-cards__grid{
     width: 80%;
     display: grid;
-    grid-template-columns: 2fr 2fr;
+    grid-template-columns: 1fr 1fr;
     row-gap: 3rem;
     column-gap: 2rem;
+    margin-bottom: 6rem;
 }

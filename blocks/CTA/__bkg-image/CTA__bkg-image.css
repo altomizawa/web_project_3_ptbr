@@ -1,0 +1,8 @@
+.CTA__bkg-image{
+    opacity: 0.7;
+    object-fit: cover;
+}
+
+.CTA__bkg-image:hover{
+    opacity: 0.4;
+}

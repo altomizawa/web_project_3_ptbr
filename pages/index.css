@@ -1,6 +1,6 @@
 @import url(/blocks/root/root.css);
 
-    /* <-------------------------HEADER SECTION-------------------------> */
+/* <-------------------------HEADER SECTION-------------------------> */
 
 @import url(/blocks/header/header.css);
 @import url(/blocks/header/__subtitle/header__subtitle.css);
@@ -8,7 +8,7 @@
 @import url(/blocks/header/__title/header__title.css);
 @import url(/blocks/logo/logo.css);
 
-    /* <-------------------------INTRODUCTION SECTION-------------------------> */
+/* <-------------------------INTRODUCTION SECTION-------------------------> */
 @import url(/blocks/introduction/introduction.css);
 @import url(/blocks/introduction/__wrapper/introduction__wrapper.css);
 @import url(/blocks/introduction/__title/introduction__title.css);
@@ -16,7 +16,7 @@
 @import url(/blocks/introduction/__quote-author/introduction__quote-author.css);
 @import url(/blocks/introduction/__text/introduction__text.css);
 
-    /* <-------------------------PHOTO-GRID SECTION-------------------------> */
+/* <-------------------------PHOTO-GRID SECTION-------------------------> */
 @import url(/blocks/grid/grid.css);
 @import url(/blocks/grid/__photo/grid__photo.css);
 @import url(/blocks/grid/__thumbnails/grid__thumbnails.css);
@@ -25,7 +25,7 @@
 @import url(/blocks/city-cards/city-cards.css);
 @import url(/blocks/city-cards/__artist-info/city-cards__artist-info.css);
 @import url(/blocks/city-cards/__artist-name/city-cards__artist-name.css);
-@import url(/blocks/city-cards/__button/city-cards__button.css);
+@import url(/blocks/button/button.css);
 @import url(/blocks/city-cards/__city-name/city-cards__city-name.css);
 @import url(/blocks/city-cards/__grid/city-cards__grid.css);
 @import url(/blocks/city-cards/__photo-column/city-cards__photo-column.css);
@@ -34,8 +34,21 @@
 @import url(/blocks/city-cards/__text/city-cards__text.css);
 @import url(/blocks/city-cards/__thumbnail/city-cards__thumbnail.css);
 
+/* <-------------------------CTA SECTION-------------------------> */
+@import url(/blocks/CTA/CTA.css);
+@import url(/blocks/CTA/CTA__image-wrapper/CTA__image-wrapper.css);
+@import url(/blocks/CTA/__bkg-image/CTA__bkg-image.css);
+@import url(/blocks/CTA/__title/CTA__title.css);
+@import url(/blocks/CTA/__text-wrapper/CTA__text-wrapper.css);
+@import url(/blocks/CTA/__text/CTA__text.css);
 
-    /* <-------------------------FONTS SECTION-------------------------> */
+/* <-------------------------FOOTER SECTION-------------------------> */
+@import url(/blocks/footer/footer.css);
+@import url(/blocks/footer/__copyrights/footer__copyrights.css);
+
+
+
+/* <-------------------------FONTS SECTION-------------------------> */
 @font-face {
     font-family: 'Inter';
     src: url(/fonts/Inter-3.19/Inter-Regular.woff),
