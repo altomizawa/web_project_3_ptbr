@@ -1,0 +1,4 @@
+.city-cards__photo-column{
+    display: flex;
+    flex-direction: column;
+}
