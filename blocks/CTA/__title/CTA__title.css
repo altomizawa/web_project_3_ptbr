@@ -1,8 +1,8 @@
 .CTA__title{
-    z-index: 1;
     text-align: center;
     font-size: 72px;
     line-height: 1;
     color:#FFFDFD;
     margin-bottom: 1rem;
+    z-index: 1;
 }
