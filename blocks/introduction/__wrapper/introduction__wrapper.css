@@ -2,3 +2,9 @@
     /* border: white 1px solid; */
     width: 80%
 }
+
+@media screen and (max-width:940px) {
+    .introduction__wrapper{
+        width: 90%;
+    }
+}

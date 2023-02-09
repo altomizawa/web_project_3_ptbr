@@ -5,3 +5,9 @@
     font-style: normal;
     width: 70%;
 }
+
+@media screen and (max-width:940px) {
+    .introduction__quote{
+        width: 95%;
+    }
+}

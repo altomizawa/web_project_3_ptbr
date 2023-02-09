@@ -6,3 +6,10 @@
     column-gap: 2rem;
     margin-bottom: 6rem;
 }
+
+@media screen and (max-width: 940px) {
+    .city-cards__grid{
+        width: 95%;
+    }
+    
+}

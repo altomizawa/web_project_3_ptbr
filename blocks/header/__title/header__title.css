@@ -9,3 +9,9 @@
     width: 55%;
     margin-bottom: 4rem;
 }
+
+@media screen and (max-width:940px) {
+    .header__title{
+        width: 90%;
+    }
+}

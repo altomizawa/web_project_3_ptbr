@@ -7,3 +7,9 @@
     text-align: right;
     margin-bottom: 3rem;
 }
+
+@media screen and (max-width:940px) {
+    .introduction__quote-author{
+        width: 95%;
+    }
+}

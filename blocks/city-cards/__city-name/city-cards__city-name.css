@@ -4,3 +4,10 @@
     font-style:normal;
     font-weight: 900;
 }
+
+@media screen and (max-width: 940px) {
+    .city-cards__city-name{
+        font-size: 42px;
+    }
+    
+}
