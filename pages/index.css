@@ -26,6 +26,7 @@
 @import url(/blocks/city-cards/__artist-info/city-cards__artist-info.css);
 @import url(/blocks/city-cards/__artist-name/city-cards__artist-name.css);
 @import url(/blocks/button/button.css);
+@import url(/blocks/button/_small-devices/button_small-devices.css);
 @import url(/blocks/city-cards/__city-name/city-cards__city-name.css);
 @import url(/blocks/city-cards/__grid/city-cards__grid.css);
 @import url(/blocks/city-cards/__photo-column/city-cards__photo-column.css);

@@ -11,3 +11,10 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+@media screen and (max-width:560px) {
+    .grid__thumbnails{
+        grid-template-columns: 1fr;
+    
+    }
+}
