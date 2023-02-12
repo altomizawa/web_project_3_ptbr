@@ -41,6 +41,7 @@
 @import url(/blocks/CTA/__title/CTA__title.css);
 @import url(/blocks/CTA/__text-wrapper/CTA__text-wrapper.css);
 @import url(/blocks/CTA/__text/CTA__text.css);
+@import url(/blocks/button/__CTA/button__CTA.css);
 
 /* <-------------------------FOOTER SECTION-------------------------> */
 @import url(/blocks/footer/footer.css);
