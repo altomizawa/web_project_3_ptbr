@@ -16,6 +16,8 @@
 @media screen and (max-width: 560px) {
     .button_small-devices{
         display: block;
+        width: 100%;
+        margin-top: 1rem;
     }
     
 }

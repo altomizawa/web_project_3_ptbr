@@ -2,3 +2,9 @@
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (min-width: 320px) and (max-width: 560px) {
+    .city-cards__photo-column{
+        margin-top: 2rem;
+    }
+}
