@@ -15,3 +15,12 @@
         width: 70%;
     }
 }
+
+
+@media screen and (max-width: 425px){
+    .CTA__description{
+        font-size: 14px;
+        width: 87%;
+        margin-top: 1rem;
+    }
+}

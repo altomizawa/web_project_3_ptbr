@@ -6,5 +6,10 @@
     color: #ffff;
     z-index: 1;
     text-align: center;
+}
 
+@media screen and (max-width: 425px){
+    .CTA__title{
+        font-size:32px;
+    }
 }

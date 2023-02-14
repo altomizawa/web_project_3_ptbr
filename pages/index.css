@@ -46,7 +46,5 @@
 @import url(/blocks/copyright/__name/copyright__name.css);
 
 
-/* <------------------MEDIA QUERY--------------------> */
-@import url(/blocks/media-query/media-query.css);
-
+/* <------------------FONTS--------------------> */
 @import url(/blocks/fonts/fonts.css);

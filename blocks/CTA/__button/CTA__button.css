@@ -13,3 +13,9 @@
     margin-top: 3rem;
     z-index: 1;    
 }
+
+@media screen and (max-width: 425px){
+    .CTA__button{
+        margin-top: 1rem;
+    }
+}

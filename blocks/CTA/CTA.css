@@ -20,3 +20,9 @@
         width: 100%;
     }
 }
+
+@media screen and (max-width: 425px){
+    .CTA{
+        height: 30vh;
+    }
+}

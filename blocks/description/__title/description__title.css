@@ -6,3 +6,10 @@
     margin-block: 4rem 2rem;
 
 }
+
+@media screen and (max-width: 425px){
+    .description__title{
+        font-size: 32px;
+        margin-bottom: 1rem;
+    }
+}
