@@ -2,5 +2,10 @@
     width: 80%;
     margin-inline: auto;
     margin-bottom: 6rem;
+}
 
+@media screen and (max-width: 768px) {
+    .city-cards{
+        width: 90%;
+    }
 }

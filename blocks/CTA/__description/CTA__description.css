@@ -8,3 +8,10 @@
     text-align: center;
     z-index: 1;
 }
+
+
+@media screen and (max-width: 768px) {
+    .CTA__description{
+        width: 70%;
+    }
+}

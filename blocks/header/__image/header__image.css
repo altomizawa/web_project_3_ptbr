@@ -2,3 +2,9 @@
     filter: grayscale(1);
     width: 80%;
 }
+
+@media screen and (max-width: 768px) {    
+    .header__image{
+        width: 100%;
+    }
+}

@@ -4,5 +4,10 @@
     line-height: 1.5;
     font-weight: 400;
     width: 75%;
-    
+}
+
+@media screen and (max-width: 768px) {    
+    .description__quote{
+        width: 100%;
+    }
 }

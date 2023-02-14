@@ -14,3 +14,9 @@
 .CTA:hover .CTA__bkg{
     opacity: 0.4;
 }
+
+@media screen and (max-width: 768px) {
+    .CTA{
+        width: 100%;
+    }
+}
