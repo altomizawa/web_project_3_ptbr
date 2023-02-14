@@ -32,8 +32,7 @@
 @import url(/blocks/city-cards/__artist-wrapper/city-cards__artist-wrapper.css);
 @import url(/blocks/city-cards/__artist-title/city-cards__artist-title.css);
 @import url(/blocks/city-cards/__artist-description/city-cards__artist-description.css);
-@import url(/blocks/city-cards/__button/_lores/CTA__button_lores.css);
-
+@import url(/blocks/city-cards/__button-lores/city-cards__button-lores.css);
 /* <------------------CTA SECTION--------------------> */
 @import url(/blocks/CTA/CTA.css);
 @import url(/blocks/CTA/__title/CTA__title.css);
