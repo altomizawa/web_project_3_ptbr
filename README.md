@@ -17,3 +17,6 @@ HTML e CSS avançados
 
 **Autor**
 Al Tomizawa
+
+**Link do projeto**
+https://altomizawa.github.io/web_project_3_ptbr/index.html
