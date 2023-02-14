@@ -1,10 +1,7 @@
-.CTA__title{
+.city-cards__title{
     font-family: 'Inter';
     line-height: 1;
     font-weight: 900;
     font-size: 72px;
     color: #ffff;
-    z-index: 1;
-    text-align: center;
-
 }

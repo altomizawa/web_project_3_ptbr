@@ -1,23 +1,8 @@
 .header__title{
-    font-family: 'Inter', 'Arial', sans-serif;
-    font-size: 96px;
-    line-height: 1;
+    font-family: 'Inter', sans-serif;
     font-weight: 900;
-    font-style: normal;
+    font-size: 90px;
+    width: 60%;
     text-align: center;
-    color: #FFFF;
-    width: 55%;
-    margin-bottom: 4rem;
-}
-
-@media screen and (min-width: 561px) and (max-width:940px) {
-    .header__title{
-        width: 90%;
-    }
-}
-
-@media screen and (max-width:560px) {
-    .header__title{
-       font-size: 40px;
-    }
+    margin-block: 4rem 2rem;
 }

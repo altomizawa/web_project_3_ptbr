@@ -1,0 +1,8 @@
+.city-cards__artist-title{
+    font-family: 'Inter';
+    line-height: 1.5;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 0.1rem;
+    color: #aaaa;
+}

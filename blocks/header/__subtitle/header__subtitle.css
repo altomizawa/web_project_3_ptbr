@@ -1,23 +1,10 @@
 .header__subtitle{
-    font-family: 'Inter', 'Arial', sans-serif;
-    font-size: 30px;
-    line-height: 1.2;
+    font-family: 'Inter';
     font-weight: 400;
-    font-style: normal;
+    font-size: 30px;
+    width: 65%;
+    line-height: 1.4;
     text-align: center;
-    color: #FFFF;
-    width: 55%;
-    margin-bottom: 4rem;
-}
-
-@media screen and (max-width:940px) {
-    .header__subtitle{
-        width: 80%;
-    }
-}
-
-@media screen and (max-width:560px) {
-    .header__subtitle{
-       font-size: 16px;
-    }
+    margin-block: 4rem 3rem;
+    font-weight: normal;
 }

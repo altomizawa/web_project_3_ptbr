@@ -1,0 +1,132 @@
+@media screen and (max-width: 768px) {
+    .header__title{
+        width: 95%;
+    }
+    
+    .header__subtitle{
+        width: 90%;
+        margin-top: 2rem;
+    }
+    
+    .header__image{
+        width: 100%;
+    }
+
+    .description{
+        width: 90%;
+    }
+
+    .description__quote{
+        width: 100%;
+    }
+
+    .description__quote-author{
+        width: 100%;
+    }
+
+    .description__text{
+        width: 100%;
+    }
+
+    .photo-grid__grid{
+        grid-template-columns: repeat(2, auto);
+        row-gap: 1rem;
+        column-gap: 1rem;
+    }
+
+    .city-cards{
+        width: 90%;
+    }
+
+    .city-cards__title{
+        font-size: 42px;
+
+    }
+
+    .city-cards__grid{
+        column-gap: 1.5rem;
+    }
+
+    .CTA{
+        width: 100%;
+    }
+
+    .CTA__description{
+        width: 70%;
+    }
+}
+
+
+@media screen and (max-width: 425px){
+    .logo{
+        width: 70%;
+    }
+
+
+    .header__title{
+        font-size: 40px;
+        width: 95%;
+        margin-bottom: 2rem;
+    }
+    
+    .header__subtitle{
+        font-size: 16px;
+        width: 95%;
+        margin-top: 0;
+    }
+
+    .description__title{
+        font-size: 32px;
+        margin-bottom: 1rem;
+    }
+
+    .photo-grid{
+        margin-block: 2rem 4rem;
+    }
+
+    .photo-grid__grid{
+        grid-template-columns: repeat(1, auto);
+    }
+
+    .city-cards__title{
+        font-size: 32px;
+    }
+
+    .city-cards__grid{
+        grid-template-columns: repeat(1, 1fr);
+        row-gap: 1.3rem;
+    }
+
+    .city-cards__button{
+        display: none;
+    }
+
+    .city-cards__button_lores{
+        display: block;
+        margin-block: 0 2rem;
+    }
+
+    .CTA{
+        height: 30vh;
+    }
+
+    .CTA__title{
+        font-size:32px;
+    }
+
+    .CTA__description{
+        font-size: 14px;
+        width: 87%;
+        margin-top: 1rem;
+    }
+
+    .CTA__button{
+        margin-top: 1rem;
+    }
+
+    .copyright{
+        height: 10vh;
+    }
+
+
+}

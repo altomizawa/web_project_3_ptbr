@@ -1,53 +1,52 @@
+
 @import url(/blocks/root/root.css);
 
-/* <-------------------------HEADER SECTION-------------------------> */
-
-@import url(/blocks/header/header.css);
-@import url(/blocks/header/__subtitle/header__subtitle.css);
-@import url(/blocks/header/__hero-image/header__hero-image.css);
-@import url(/blocks/header/__title/header__title.css);
+/* <------------------HEADER SECTION--------------------> */
 @import url(/blocks/logo/logo.css);
+@import url(/blocks/header/header.css);
+@import url(/blocks/header/__title/header__title.css);
+@import url(/blocks/header/__subtitle/header__subtitle.css);
+@import url(/blocks/header/__image/header__image.css);
 
-/* <-------------------------INTRODUCTION SECTION-------------------------> */
-@import url(/blocks/introduction/introduction.css);
-@import url(/blocks/introduction/__wrapper/introduction__wrapper.css);
-@import url(/blocks/introduction/__title/introduction__title.css);
-@import url(/blocks/introduction/__quote/introduction__quote.css);
-@import url(/blocks/introduction/__quote-author/introduction__quote-author.css);
-@import url(/blocks/introduction/__text/introduction__text.css);
+/* <------------------DESCRIPTION SECTION--------------------> */
+@import url(/blocks/description/description.css);
+@import url(/blocks/description/__title/description__title.css);
+@import url(/blocks/description/__quote/description__quote.css);
+@import url(/blocks/description/__quote-author/description__quote-author.css);
+@import url(/blocks/description/__text/description__text.css);
 
-/* <-------------------------PHOTO-GRID SECTION-------------------------> */
-@import url(/blocks/grid/grid.css);
-@import url(/blocks/grid/__photo/grid__photo.css);
-@import url(/blocks/grid/__thumbnails/grid__thumbnails.css);
+/* <------------------PHOTO-GRID SECTION--------------------> */
+@import url(/blocks/photo-grid/__grid/photo-grid__grid.css);
+@import url(/blocks/photo-grid/photo-grid.css);
+@import url(/blocks/photo-grid/__image/photo-grid__image.css);
 
-/* <-------------------------CITY-CARDS SECTION-------------------------> */
+/* <------------------CITY-CARDS SECTION--------------------> */
 @import url(/blocks/city-cards/city-cards.css);
-@import url(/blocks/city-cards/__artist-info/city-cards__artist-info.css);
-@import url(/blocks/city-cards/__artist-name/city-cards__artist-name.css);
-@import url(/blocks/button/button.css);
-@import url(/blocks/button/_small-devices/button_small-devices.css);
-@import url(/blocks/city-cards/__city-name/city-cards__city-name.css);
-@import url(/blocks/city-cards/__grid/city-cards__grid.css);
-@import url(/blocks/city-cards/__photo-column/city-cards__photo-column.css);
-@import url(/blocks/city-cards/__subtitle/city-cards__subtitle.css);
-@import url(/blocks/city-cards/__text-wrapper/city-cards__text-wrapper.css);
-@import url(/blocks/city-cards/__text/city-cards__text.css);
+@import url(/blocks/city-cards/__title/city-cards__title.css);
 @import url(/blocks/city-cards/__thumbnail/city-cards__thumbnail.css);
+@import url(/blocks/city-cards/__thumbnail-wrapper/city-cards__thumbnail-wrapper.css);
+@import url(/blocks/city-cards/__grid/city-cards__grid.css);
+@import url(/blocks/city-cards/__description/city-cards__description.css);
+@import url(/blocks/city-cards/__description-wrapper/city-cards__description-wrapper.css);
+@import url(/blocks/city-cards/__button/city-cards__button.css);
+@import url(/blocks/city-cards/__artist-wrapper/city-cards__artist-wrapper.css);
+@import url(/blocks/city-cards/__artist-title/city-cards__artist-title.css);
+@import url(/blocks/city-cards/__artist-description/city-cards__artist-description.css);
+@import url(/blocks/city-cards/__button/_lores/CTA__button_lores.css);
 
-/* <-------------------------CTA SECTION-------------------------> */
+/* <------------------CTA SECTION--------------------> */
 @import url(/blocks/CTA/CTA.css);
-@import url(/blocks/CTA/__bkg-image/CTA__bkg-image.css);
 @import url(/blocks/CTA/__title/CTA__title.css);
-@import url(/blocks/CTA/__text-wrapper/CTA__text-wrapper.css);
-@import url(/blocks/CTA/__text/CTA__text.css);
-@import url(/blocks/button/__CTA/button__CTA.css);
+@import url(/blocks/CTA/__button/CTA__button.css);
+@import url(/blocks/CTA/__description/CTA__description.css);
+@import url(/blocks/CTA/__bkg/CTA__bkg.css);
 
-/* <-------------------------FOOTER SECTION-------------------------> */
-@import url(/blocks/footer/footer.css);
-@import url(/blocks/footer/__copyrights/footer__copyrights.css);
-
-
+/* <------------------FOOTER SECTION--------------------> */
+@import url(/blocks/copyright/copyright.css);
+@import url(/blocks/copyright/__name/copyright__name.css);
 
 
+/* <------------------MEDIA QUERY--------------------> */
+@import url(/blocks/media-query/media-query.css);
 
+@import url(/blocks/fonts/fonts.css);

@@ -1,14 +1,16 @@
 .CTA{
-    height: 80vh;
-    background-color: #2a2c2f;
+    width: 95%;
+    height: 70vh;
+    /* background-image: url(/images/landscape.png);
+    background-size: cover; */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-inline: auto;
     position: relative;
-    overflow: hidden;
 }
 
-.CTA:hover .CTA__bkg-image{
-    opacity: 0.3;
+.CTA:hover .CTA__bkg{
+    opacity: 0.4;
 }
